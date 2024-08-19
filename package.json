@@ -1,0 +1,25 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "laravel-vite-plugin": "^1.0",
+        "prettier": "2.7.1",
+        "vite": "^5.3.5"
+    },
+    "dependencies": {
+    },
+    "name": "epaper-prothom-alo",
+    "version": "5.0.0",
+    "author": "Prothom Alo",
+    "description": "Prothom Alo ePaper ReactJS version",
+    "main": "vite.config.js",
+    "directories": {
+        "test": "tests"
+    },
+    "keywords": [],
+    "license": "ISC"
+}
